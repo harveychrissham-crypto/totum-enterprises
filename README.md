@@ -9,9 +9,13 @@ What We Do?
 
 Why We’re Useful?
 -Our world is complex, and solutions can’t exist in silos. Totum Enterprises thrives by connecting industries and delivering integrated answers to global challenges:
+ 
  -Finance & Innovation → Empowering entrepreneurs and businesses
+ 
  -Healthcare & Food → Improving quality of life
+
  -Technology & Education → Building future-ready generations
+
  -Energy & Real Estate → Powering sustainable development
 
 -With us, users, partners, and communities gain access to endless opportunities for growth, success, and impact.
